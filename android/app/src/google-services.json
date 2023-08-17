@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178765852723",
+    "project_id": "jana-s-todo-f1dfc",
+    "storage_bucket": "jana-s-todo-f1dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178765852723:android:1bab137776a8116d967346",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178765852723-7gkrkrrd5a7g0sa2tl06rnadhqrbte6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRSYCP8guCGECdo-7dqj5M1AKcDJ4sgJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178765852723-7gkrkrrd5a7g0sa2tl06rnadhqrbte6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
